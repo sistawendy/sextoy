@@ -17,7 +17,7 @@ I've decided to publish this design as open hardware because I'm doubtful that a
 
 The bulbous tip of the inverted V on the left in the image above goes into the vagina. It stimulates the G-spot or, in the case of trans women who've had sex reassignment surgery, the prostate. The flattened area where the inverted V meets the handle stimulates the clitoris. Move the toy as desired.
 
-# Repository Contents
+# Design Files
 
 * **mesh.stl** - STL is a polygon-based CAM format that's popular with manufacturers. This, or something like it, is what you'll need to send to a fabricator. The units for the file are millimeters.
 * **mesh.blend** - The [Blender](https://www.blender.org) file from which I generated the STL. The geometry is an extensively edited mesh because Blender's automatic conversion from parametric volumes to polygons leaves numerous artifacts.
