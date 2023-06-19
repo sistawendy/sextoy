@@ -5,10 +5,6 @@ License: [TAPR Open Hardware](./LICENSE.txt)
 
 Copyright (c) 2023 Maura Hubbell
 
-![the sex toy](./ToyScaleDown.JPG)
-
-A sex toy that works for people with vaginas.
-
 # Why Design a Sex Toy?
 
 Because no sex toy on the market worked for me, and I've tried a wide variety of sex toys. I know that other trans women, and other middle-aged women, have had the same problem.
@@ -17,7 +13,9 @@ I've decided to publish this design as open hardware because I'm doubtful that a
 
 # How To Use It
 
-The bulbous tip of the inverted V on the left goes into the vagina. It stimulates the G-spot or, in the case of trans women who've had sex reassignment surgery, the prostate. The flattened area where the inverted V meets the handle stimulates the clitoris. Move the toy as desired.
+![the sex toy](./ToyScaleDown.JPG)
+
+The bulbous tip of the inverted V on the left in the image above goes into the vagina. It stimulates the G-spot or, in the case of trans women who've had sex reassignment surgery, the prostate. The flattened area where the inverted V meets the handle stimulates the clitoris. Move the toy as desired.
 
 # Repository Contents
 
