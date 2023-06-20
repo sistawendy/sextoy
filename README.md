@@ -9,7 +9,7 @@ Copyright (c) 2023 Maura Hubbell
 
 Because no sex toy on the market worked for me, and I've tried a wide variety of sex toys. I know that other trans women, and other middle-aged women, have had the same problem.
 
-I've decided to publish this design as open hardware because I'm doubtful that anyone can build a viable business from a design. Even if it's possible, I don't want the hassle of running that business. However, I want as many people to have a copy of this toy as cheaply as possible if they want one.
+I've decided to publish this design as open hardware because I'm doubtful that anyone can build a viable business from a design like this. Even if it's possible, I don't want the hassle of running that business. However, I want as many people to have a copy of this toy as possible as cheaply as possible if they want one.
 
 # How To Use It
 
