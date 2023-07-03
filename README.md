@@ -31,4 +31,4 @@ The bulbous tip of the inverted V on the left in the image above goes into the v
 1. **Stainless steel** - I haven't investigated steel at all, but there are plenty of stainless toys on the market. They are also dishwasher-safe and durable.
 1. **Poly(methyl methacrylate)** - I made the earliest versions of this toy out of PMMA (sold under the brand name Lucite&trade;) without the aid of CAD/CAM, only to be informed later that PMMA is *not* body-safe.
 
-Xometry does not claim that any of its processes produce medical-grade devices. I have not investigated what, if anything, differentiates medical-grade plastics from others.
+Xometry does not claim that any of its 3D-printing processes produce medical-grade devices. I have not investigated what, if anything, differentiates medical-grade plastics from others.
