@@ -25,9 +25,9 @@ The bulbous tip of the inverted V on the left in the image above goes into the v
 
 # Fabrication Options
 
-1. **Nylon** - I believe this to be safe because some medical devices are made from nylon. I used the HP Multi Jet Fusion 3D printing process from [Xometry](https://xometry.com). *You need to use the vapor smoothing finish* or your toy will have a surface something like sandpaper.
+1. **Glass** - A tried and true safe material for sex toys. It's even dishwasher safe if it's borosilicate glass. I got a copy of the above manufactured at Seattle Glassblowing Studio for a little under $200 including tax in 2023. They needed a prototype to work from, though, so you still need to 3D print the design.
+1. **Nylon** - I believe the material to be safe because some medical devices are made from nylon, but I'm not sure about the porosity of any 3D-printed object. In sex toys, porosity is a biological hazard. I used the HP Multi Jet Fusion 3D printing process from [Xometry](https://xometry.com). *You need to use the vapor smoothing finish* or your toy will have a surface something like sandpaper.
 1. **Polyurethane** - This is the same material that trans women's dilators are made of so I'm confident of its safety, but since it's a molding process, minimum quantities and costs are higher than for nylon.
-1. **Glass** - A tried and true safe material for sex toys. It's even dishwasher safe! Unfortunately, custom glass fabrication can have very long lead times as well as high costs.
 1. **Stainless steel** - I haven't investigated steel at all, but there are plenty of stainless toys on the market. They are also dishwasher-safe and durable.
 1. **Poly(methyl methacrylate)** - I made the earliest versions of this toy out of PMMA (sold under the brand name Lucite&trade;) without the aid of CAD/CAM, only to be informed later that PMMA is *not* body-safe.
 
